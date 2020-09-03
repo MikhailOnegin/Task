@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="toast_mission_connection">mission connection</string>
+    <string name="error_loading">Error loading</string>
+</resources>
